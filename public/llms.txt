@@ -7,41 +7,41 @@
 ## Pages
 
 ### בית
-https://photo-niv-056291b9.zappy5.app
+https://example.com
 צילום מקצועי עם לב ורגש לפורטרטים, משפחה, הצעות נישואין ומיתוג אישי. יוצרים עבורכם חווית צילום מודרנית ונקייה שתשאיר טעם של עוד. הזמינו סשן עוד היום!
 
 ### שירותים
-https://photo-niv-056291b9.zappy5.app/services
+https://example.com/services
 מחפשים צילומי פורטרט, משפחה, הצעות נישואין או תיק עבודות לדוגמנות? גלו איך אנחנו הופכים כל רגע ליצירת אמנות עם אסתטיקה עכשווית ולב ענק. בואו ליצור איתנו קסם!
 
 ### תיק עבודות
-https://photo-niv-056291b9.zappy5.app/portfolio
+https://example.com/portfolio
 צללו לתוך גלריה של רגעים קסומים שצולמו בעין רגישה ולב אוהב. פורטרטים, משפחות והצעות נישואין שמספרים סיפורים אמיתיים. בואו להתאהב בכל תמונה מחדש!
 
 ### אודות
-https://photo-niv-056291b9.zappy5.app/about
+https://example.com/about
 צלם בתחילת דרכו עם תשוקה אמיתית לתפוס את הרגעים הכי כנים שלכם. סגנון נקי, רענן ומלא חמימות שמתאים לכל סיפור אישי. רוצים לדעת מי עומד מאחורי העדשה?
 
 ### צור קשר
-https://photo-niv-056291b9.zappy5.app/contact
+https://example.com/contact
 מוכנים להפוך את החלום לתמונה מושלמת? צרו קשר עוד היום לתאום סשן צילום אישי, הצעת מחיר או כל שאלה. מחכה לשמוע מכם וליצור יחד זיכרונות מתוקים!
 
 ### תודה - Photo Niv
-https://photo-niv-056291b9.zappy5.app/thank-you
+https://example.com/thank-you
 Photo Niv - תודה - Photo Niv
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://photo-niv-056291b9.zappy5.app/privacy
+https://example.com/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://photo-niv-056291b9.zappy5.app/terms
+https://example.com/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://photo-niv-056291b9.zappy5.app/accessibility
+https://example.com/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
@@ -51,8 +51,8 @@ Information about WCAG compliance and accessibility features.
 - (No contact details configured yet.)
 
 ### Contact form
-- URL: https://photo-niv-056291b9.zappy5.app/contact
-- Endpoint: https://photo-niv-056291b9.zappy5.app/api/email/contact-form
+- URL: https://example.com/contact
+- Endpoint: https://example.com/api/email/contact-form
 - Method: POST
 - Content-Type: application/json
 - Fields:
@@ -88,6 +88,6 @@ Photography
 
 # Machine-readable feeds
 
-- Sitemap (XML): https://photo-niv-056291b9.zappy5.app/sitemap.xml
-- Robots: https://photo-niv-056291b9.zappy5.app/robots.txt
-- Flattened page text (for LLMs): https://photo-niv-056291b9.zappy5.app/llms-full.txt
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt
