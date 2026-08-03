@@ -1,0 +1,93 @@
+# Photo Niv — Generative Engine Optimization Map
+
+> A beginner photographer specializing in a diverse range of personal and professional photography services including portraits, family shoots, marriage proposals, modeling portfolios, and branding/headshots. The brand aims for a modern and clean aesthetic, suggesting a fresh, contemporary visual identity that appeals to individuals and families seeking polished, heartfelt photography experiences.
+
+---
+
+## Pages
+
+### בית
+https://photo-niv-056291b9.zappy5.app
+צילום מקצועי עם לב ורגש לפורטרטים, משפחה, הצעות נישואין ומיתוג אישי. יוצרים עבורכם חווית צילום מודרנית ונקייה שתשאיר טעם של עוד. הזמינו סשן עוד היום!
+
+### שירותים
+https://photo-niv-056291b9.zappy5.app/services
+מחפשים צילומי פורטרט, משפחה, הצעות נישואין או תיק עבודות לדוגמנות? גלו איך אנחנו הופכים כל רגע ליצירת אמנות עם אסתטיקה עכשווית ולב ענק. בואו ליצור איתנו קסם!
+
+### תיק עבודות
+https://photo-niv-056291b9.zappy5.app/portfolio
+צללו לתוך גלריה של רגעים קסומים שצולמו בעין רגישה ולב אוהב. פורטרטים, משפחות והצעות נישואין שמספרים סיפורים אמיתיים. בואו להתאהב בכל תמונה מחדש!
+
+### אודות
+https://photo-niv-056291b9.zappy5.app/about
+צלם בתחילת דרכו עם תשוקה אמיתית לתפוס את הרגעים הכי כנים שלכם. סגנון נקי, רענן ומלא חמימות שמתאים לכל סיפור אישי. רוצים לדעת מי עומד מאחורי העדשה?
+
+### צור קשר
+https://photo-niv-056291b9.zappy5.app/contact
+מוכנים להפוך את החלום לתמונה מושלמת? צרו קשר עוד היום לתאום סשן צילום אישי, הצעת מחיר או כל שאלה. מחכה לשמוע מכם וליצור יחד זיכרונות מתוקים!
+
+### תודה - Photo Niv
+https://photo-niv-056291b9.zappy5.app/thank-you
+Photo Niv - תודה - Photo Niv
+
+## Legal & Policy
+
+### Privacy Policy
+https://photo-niv-056291b9.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://photo-niv-056291b9.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://photo-niv-056291b9.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## How to Contact Us
+
+- (No contact details configured yet.)
+
+### Contact form
+- URL: https://photo-niv-056291b9.zappy5.app/contact
+- Endpoint: https://photo-niv-056291b9.zappy5.app/api/email/contact-form
+- Method: POST
+- Content-Type: application/json
+- Fields:
+  - `name` (text)
+  - `email` (email)
+  - `phone` (tel)
+  - `message` (textarea)
+  - `privacy_consent` (checkbox)
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Photo Niv
+A beginner photographer specializing in a diverse range of personal and professional photography services including portraits, family shoots, marriage proposals, modeling portfolios, and branding/headshots. The brand aims for a modern and clean aesthetic, suggesting a fresh, contemporary visual identity that appeals to individuals and families seeking polished, heartfelt photography experiences.
+
+## Services/Products
+- פורטרטים
+- צילומי משפחה
+- הצעות נישואין
+- בוקים
+- תדמית
+
+## Target Audience
+- זוגות מתחתנים
+- לקוחות עסקיים
+- בוקים זוגות משפחה ילדים פורטרטים תדמית
+
+## Industry
+Photography
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://photo-niv-056291b9.zappy5.app/sitemap.xml
+- Robots: https://photo-niv-056291b9.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://photo-niv-056291b9.zappy5.app/llms-full.txt
